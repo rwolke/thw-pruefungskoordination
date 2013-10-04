@@ -42,6 +42,10 @@ werden (Teamprüfung).
   Stationen 70%, 80% und 90% der durchschnittlichen Prüfungszeit, folglich braucht er an der nächsten Station wohl nur 
   80% der durchschnittlichen Prüfungszeit dieser Station)
 
+## Bemerkung
+
+Das Skript ist unter hohen Zeitdruck entstanden und sollte auch nur einmalig vom Autor verwendet werden. Aufgrund dessen enthält es keine Fehlerbehandlung bzw. Optimierungen oder gar eine Trennung von Code und Layout. Aufgrund von Nachfragen stelle ich es aber gerne online. Nutzung ohne jedwede Garantie!
+
 ## Lizenz
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/de/" class="ui-link"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/de/88x31.png"></img></a><br />

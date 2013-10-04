@@ -195,7 +195,7 @@
 <html lang="de">
 	<head>
 		<meta charset="utf-8">
-		<title>THW Prüfung</title>
+		<title>THW Prüfungskoordination</title>
 		<link href="css/jquery.dataTables.css" rel="stylesheet">
 		<link href="css/jquery-ui-1.10.3.custom.css" rel="stylesheet">
 		<style tyle="text/css">
